@@ -1,0 +1,104 @@
+{
+  "system": {
+    "keymanDeveloperVersion": "13.0.115.0",
+    "fileVersion": "7.0"
+  },
+  "options": {
+    "graphicFile": "splash.bmp"
+  },
+  "startMenu": {
+    "folder": "Aazhvaar Telugu Phonetic",
+    "items": [
+      {
+        "name": "Start Keyman",
+        "filename": "(Start Product)"
+      },
+      {
+        "name": "Keyboard Mapping",
+        "filename": "keyboard.htm"
+      },
+      {
+        "name": "About Aazhvaar Telugu",
+        "filename": "readme.htm"
+      },
+      {
+        "name": "How to use",
+        "filename": "how_to_use.pdf"
+      }
+    ]
+  },
+  "info": {
+    "version": {
+      "description": "1.0"
+    },
+    "name": {
+      "description": "Aazhvaar Telugu Phonetic"
+    },
+    "copyright": {
+      "description": "\u00A9 2020 Vinodh Rajan"
+    },
+    "author": {
+      "description": "Vinodh Rajan",
+      "url": "mailto:vinodh.vinodh@gmail.com"
+    },
+    "website": {
+      "description": "http://www.virtualvinodh.com",
+      "url": "http://www.virtualvinodh.com"
+    }
+  },
+  "files": [
+    {
+      "name": "aazhvaar_telugu.ico",
+      "description": "File aazhvaar_telugu.ico"
+    },
+    {
+      "name": "aazhvaar_telugu.js",
+      "description": "File aazhvaar_telugu.js"
+    },
+    {
+      "name": "aazhvaar_telugu.kmn",
+      "description": "File aazhvaar_telugu.kmn"
+    },
+    {
+      "name": "aazhvaar_telugu.kmx",
+      "description": "Keyboard Aazhvaar Telugu Phonetic"
+    },
+    {
+      "name": "AazhvaarTelugu.otf",
+      "description": "Font Aazhvaar Telugu"
+    },
+    {
+      "name": "keyboard.htm",
+      "description": "File keyboard.htm"
+    },
+    {
+      "name": "readme.htm",
+      "description": "File readme.htm"
+    },
+    {
+      "name": "splash.bmp",
+      "description": "File splash.bmp"
+    },
+    {
+      "name": "how_to_use.pdf",
+      "description": "File how_to_use.pdf"
+    },
+    {
+      "name": "kmp.inf",
+      "description": "Package information"
+    },
+    {
+      "name": "kmp.json",
+      "description": "Package information (JSON)"
+    }
+  ],
+  "keyboards": [
+    {
+      "name": "Aazhvaar Telugu Phonetic",
+      "id": "aazhvaar_telugu",
+      "version": "1.0",
+      "languages": [
+      ]
+    }
+  ]
+}

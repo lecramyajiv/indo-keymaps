@@ -1,0 +1,35 @@
+[Package]
+Version=7.0
+ExecuteProgram=
+GraphicFile=splash.bmp
+[StartMenu]
+Path=Aazhvaar Telugu Phonetic
+Create=1
+AddUninstallEntry=0
+[StartMenuEntries]
+Start Keyman="(Start Product)",""
+Keyboard Mapping="keyboard.htm",""
+About Aazhvaar Telugu="readme.htm",""
+How to use="how_to_use.pdf",""
+[Info]
+Version="1.0",""
+Name="Aazhvaar Telugu Phonetic",""
+Copyright="© 2020 Vinodh Rajan",""
+Author="Vinodh Rajan","mailto:vinodh.vinodh@gmail.com"
+WebSite="http://www.virtualvinodh.com","http://www.virtualvinodh.com"
+[Files]
+0="File aazhvaar_telugu.ico","aazhvaar_telugu.ico",0
+1="File aazhvaar_telugu.js","aazhvaar_telugu.js",0
+2="File aazhvaar_telugu.kmn","aazhvaar_telugu.kmn",0
+3="Keyboard Aazhvaar Telugu Phonetic","aazhvaar_telugu.kmx",0
+4="Font Aazhvaar Telugu","AazhvaarTelugu.otf",0
+5="File keyboard.htm","keyboard.htm",0
+6="File readme.htm","readme.htm",0
+7="File splash.bmp","splash.bmp",0
+8="File how_to_use.pdf","how_to_use.pdf",0
+9="Package information","kmp.inf",0
+10="Package information (JSON)","kmp.json",0
+[Keyboard0]
+Name=Aazhvaar Telugu Phonetic
+ID=aazhvaar_telugu
+Version=1.0
