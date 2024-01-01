@@ -1,0 +1,52 @@
+[Package]
+Version=7.0
+ExecuteProgram=
+ReadMeFile=readme.htm
+GraphicFile=splash_grantha.bmp
+[StartMenu]
+Path=Grantha Unicode Keyboard
+Create=1
+AddUninstallEntry=0
+[StartMenuEntries]
+Start Keyman="(Start Product)",""
+Keyman Help="(Product Help)",""
+Keyman Settings="(Product Configuration)",""
+Phonetic Keyboard="keyboard_phonetic.htm",""
+Inscript Keyboard="keyboard_inscript.pdf",""
+How to Use="how_to_use.pdf",""
+[Info]
+Version="1.0",""
+Name="Grantha Unicode Keyboards",""
+Copyright="© 2020 Vinodh Rajan",""
+Author="Vinodh Rajan","mailto:vinodh@virtualvinodh.com"
+WebSite="http://www.virtualvinodh.com","http://www.virtualvinodh.com"
+[Files]
+0="File readme.htm","readme.htm",0
+1="File splash_grantha.bmp","splash_grantha.bmp",0
+2="Font Noto Sans Grantha Regular","NotoSansGrantha-Regular.ttf",0
+3="Font Noto Serif Grantha Regular","NotoSerifGrantha-Regular.ttf",0
+4="File keyboard_inscript.pdf","keyboard_inscript.pdf",0
+5="File keyboard_phonetic.pdf","keyboard_phonetic.pdf",0
+6="File how_to_use.pdf","how_to_use.pdf",0
+7="File grantha_inscript.js","grantha_inscript.js",0
+8="File grantha_inscript.kvk","grantha_inscript.kvk",0
+9="Keyboard Grantha Unicode Inscript","grantha_inscript.kmx",0
+10="File grantha_unicode_phonetic.js","grantha_unicode_phonetic.js",0
+11="Keyboard Grantha Unicode Phonetic","grantha_unicode_phonetic.kmx",0
+12="File keyboard_phonetic.htm","keyboard_phonetic.htm",0
+13="Package information","kmp.inf",0
+14="Package information (JSON)","kmp.json",0
+[Keyboard0]
+Name=Grantha Unicode Inscript
+ID=grantha_inscript
+Version=1.0
+OSKFont=NotoSansGrantha-Regular.ttf
+DisplayFont=NotoSerifGrantha-Regular.ttf
+Language0=sa-Gran,Sanskrit (Grantha)
+[Keyboard1]
+Name=Grantha Unicode Phonetic
+ID=grantha_unicode_phonetic
+Version=1.0
+OSKFont=NotoSansGrantha-Regular.ttf
+DisplayFont=NotoSansGrantha-Regular.ttf
+Language0=sa-Gran,Sanskrit (Grantha)

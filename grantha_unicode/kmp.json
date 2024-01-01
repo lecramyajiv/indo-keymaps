@@ -1,0 +1,148 @@
+{
+  "system": {
+    "keymanDeveloperVersion": "14.0.283.0",
+    "fileVersion": "7.0"
+  },
+  "options": {
+    "readmeFile": "readme.htm",
+    "graphicFile": "splash_grantha.bmp"
+  },
+  "startMenu": {
+    "folder": "Grantha Unicode Keyboard",
+    "items": [
+      {
+        "name": "Start Keyman",
+        "filename": "(Start Product)"
+      },
+      {
+        "name": "Keyman Help",
+        "filename": "(Product Help)"
+      },
+      {
+        "name": "Keyman Settings",
+        "filename": "(Product Configuration)"
+      },
+      {
+        "name": "Phonetic Keyboard",
+        "filename": "keyboard_phonetic.htm"
+      },
+      {
+        "name": "Inscript Keyboard",
+        "filename": "keyboard_inscript.pdf"
+      },
+      {
+        "name": "How to Use",
+        "filename": "how_to_use.pdf"
+      }
+    ]
+  },
+  "info": {
+    "version": {
+      "description": "1.0"
+    },
+    "name": {
+      "description": "Grantha Unicode Keyboards"
+    },
+    "copyright": {
+      "description": "\u00A9 2020 Vinodh Rajan"
+    },
+    "author": {
+      "description": "Vinodh Rajan",
+      "url": "mailto:vinodh@virtualvinodh.com"
+    },
+    "website": {
+      "description": "http://www.virtualvinodh.com",
+      "url": "http://www.virtualvinodh.com"
+    }
+  },
+  "files": [
+    {
+      "name": "readme.htm",
+      "description": "File readme.htm"
+    },
+    {
+      "name": "splash_grantha.bmp",
+      "description": "File splash_grantha.bmp"
+    },
+    {
+      "name": "NotoSansGrantha-Regular.ttf",
+      "description": "Font Noto Sans Grantha Regular"
+    },
+    {
+      "name": "NotoSerifGrantha-Regular.ttf",
+      "description": "Font Noto Serif Grantha Regular"
+    },
+    {
+      "name": "keyboard_inscript.pdf",
+      "description": "File keyboard_inscript.pdf"
+    },
+    {
+      "name": "keyboard_phonetic.pdf",
+      "description": "File keyboard_phonetic.pdf"
+    },
+    {
+      "name": "how_to_use.pdf",
+      "description": "File how_to_use.pdf"
+    },
+    {
+      "name": "grantha_inscript.js",
+      "description": "File grantha_inscript.js"
+    },
+    {
+      "name": "grantha_inscript.kvk",
+      "description": "File grantha_inscript.kvk"
+    },
+    {
+      "name": "grantha_inscript.kmx",
+      "description": "Keyboard Grantha Unicode Inscript"
+    },
+    {
+      "name": "grantha_unicode_phonetic.js",
+      "description": "File grantha_unicode_phonetic.js"
+    },
+    {
+      "name": "grantha_unicode_phonetic.kmx",
+      "description": "Keyboard Grantha Unicode Phonetic"
+    },
+    {
+      "name": "keyboard_phonetic.htm",
+      "description": "File keyboard_phonetic.htm"
+    },
+    {
+      "name": "kmp.inf",
+      "description": "Package information"
+    },
+    {
+      "name": "kmp.json",
+      "description": "Package information (JSON)"
+    }
+  ],
+  "keyboards": [
+    {
+      "name": "Grantha Unicode Inscript",
+      "id": "grantha_inscript",
+      "version": "1.0",
+      "oskFont": "NotoSansGrantha-Regular.ttf",
+      "displayFont": "NotoSerifGrantha-Regular.ttf",
+      "languages": [
+        {
+          "name": "Sanskrit (Grantha)",
+          "id": "sa-Gran"
+        }
+      ]
+    },
+    {
+      "name": "Grantha Unicode Phonetic",
+      "id": "grantha_unicode_phonetic",
+      "version": "1.0",
+      "oskFont": "NotoSansGrantha-Regular.ttf",
+      "displayFont": "NotoSansGrantha-Regular.ttf",
+      "languages": [
+        {
+          "name": "Sanskrit (Grantha)",
+          "id": "sa-Gran"
+        }
+      ]
+    }
+  ]
+}

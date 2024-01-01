@@ -1,0 +1,124 @@
+{
+  "system": {
+    "keymanDeveloperVersion": "13.0.115.0",
+    "fileVersion": "7.0"
+  },
+  "options": {
+    "readmeFile": "readme.htm",
+    "graphicFile": "splash.bmp"
+  },
+  "startMenu": {
+    "folder": "Sharada Keyboard",
+    "items": [
+      {
+        "name": "Start Keyman",
+        "filename": "(Start Product)"
+      },
+      {
+        "name": "Phonetic Keyboard Layout",
+        "filename": "keyboard.htm"
+      },
+      {
+        "name": "Inscript Layout",
+        "filename": "inscript_layout.pdf"
+      },
+      {
+        "name": "how-to-use",
+        "filename": "how_to_use.pdf"
+      },
+      {
+        "name": "Keyman Help",
+        "filename": "(Product Help)"
+      }
+    ]
+  },
+  "info": {
+    "name": {
+      "description": "Sharada"
+    },
+    "copyright": {
+      "description": "\u00A9 2021 Virtual Vinodh"
+    },
+    "author": {
+      "description": "Vinodh Rajan",
+      "url": "mailto:vinodh@virtualvinodh.com"
+    },
+    "version": {
+      "description": "1.0"
+    },
+    "website": {
+      "description": "http://www.virtualvinodh.com",
+      "url": "http://www.virtualvinodh.com"
+    }
+  },
+  "files": [
+    {
+      "name": "keyboard.htm",
+      "description": "File keyboard.htm"
+    },
+    {
+      "name": "readme.htm",
+      "description": "File readme.htm"
+    },
+    {
+      "name": "splash.bmp",
+      "description": "File splash.bmp"
+    },
+    {
+      "name": "sharada_unicode_phonetic.js",
+      "description": "File sharada_unicode_phonetic.js"
+    },
+    {
+      "name": "sharada_unicode_phonetic.kmx",
+      "description": "Keyboard Sharada Unicode Phonetic"
+    },
+    {
+      "name": "how_to_use.pdf",
+      "description": "File how_to_use.pdf"
+    },
+    {
+      "name": "Sharada.ttf",
+      "description": "Font Satisar Sharada"
+    },
+    {
+      "name": "sharada_inscript.js",
+      "description": "File sharada_inscript.js"
+    },
+    {
+      "name": "sharada_inscript.kvk",
+      "description": "File sharada_inscript.kvk"
+    },
+    {
+      "name": "sharada_inscript.kmx",
+      "description": "Keyboard Sharada Unicode Inscript"
+    },
+    {
+      "name": "inscript_layout.pdf",
+      "description": "File inscript_layout.pdf"
+    },
+    {
+      "name": "kmp.inf",
+      "description": "Package information"
+    },
+    {
+      "name": "kmp.json",
+      "description": "Package information (JSON)"
+    }
+  ],
+  "keyboards": [
+    {
+      "name": "Sharada Unicode Phonetic",
+      "id": "sharada_unicode_phonetic",
+      "version": "1.0",
+      "languages": [
+      ]
+    },
+    {
+      "name": "Sharada Unicode Inscript",
+      "id": "sharada_inscript",
+      "version": "1.0",
+      "languages": [
+      ]
+    }
+  ]
+}

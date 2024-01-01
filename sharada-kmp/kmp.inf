@@ -1,0 +1,43 @@
+[Package]
+Version=7.0
+ExecuteProgram=
+ReadMeFile=readme.htm
+GraphicFile=splash.bmp
+[StartMenu]
+Path=Sharada Keyboard
+Create=1
+AddUninstallEntry=0
+[StartMenuEntries]
+Start Keyman="(Start Product)",""
+Phonetic Keyboard Layout="keyboard.htm",""
+Inscript Layout="inscript_layout.pdf",""
+how-to-use="how_to_use.pdf",""
+Keyman Help="(Product Help)",""
+[Info]
+Name="Sharada",""
+Copyright="© 2021 Virtual Vinodh",""
+Author="Vinodh Rajan","mailto:vinodh@virtualvinodh.com"
+Version="1.0",""
+WebSite="http://www.virtualvinodh.com","http://www.virtualvinodh.com"
+[Files]
+0="File keyboard.htm","keyboard.htm",0
+1="File readme.htm","readme.htm",0
+2="File splash.bmp","splash.bmp",0
+3="File sharada_unicode_phonetic.js","sharada_unicode_phonetic.js",0
+4="Keyboard Sharada Unicode Phonetic","sharada_unicode_phonetic.kmx",0
+5="File how_to_use.pdf","how_to_use.pdf",0
+6="Font Satisar Sharada","Sharada.ttf",0
+7="File sharada_inscript.js","sharada_inscript.js",0
+8="File sharada_inscript.kvk","sharada_inscript.kvk",0
+9="Keyboard Sharada Unicode Inscript","sharada_inscript.kmx",0
+10="File inscript_layout.pdf","inscript_layout.pdf",0
+11="Package information","kmp.inf",0
+12="Package information (JSON)","kmp.json",0
+[Keyboard0]
+Name=Sharada Unicode Phonetic
+ID=sharada_unicode_phonetic
+Version=1.0
+[Keyboard1]
+Name=Sharada Unicode Inscript
+ID=sharada_inscript
+Version=1.0
